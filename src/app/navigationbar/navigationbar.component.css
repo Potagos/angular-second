@@ -1,0 +1,13 @@
+div{
+    background-color: rgb(200, 200, 250);
+    height: 5vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+button{
+    height: 75%;
+    margin-left: 10px;
+    min-width: 75px;
+}
